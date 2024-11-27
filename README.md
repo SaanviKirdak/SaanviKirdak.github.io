@@ -1,9 +1,10 @@
+<!DOCTYPE html>
 <html lang="e">
     <head>
+        /* <meta charset="UTF-8"> */
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Virtue Greens</title>
         <style>
-            /* <meta charset="UTF-8">*/
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>Virtue Greens</title>
             body {
                 background-color: sagegreen
                 color: black
