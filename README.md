@@ -4,8 +4,8 @@
         <title>Virtue Greens</title>
         <style>
             body {
-                background-color: #d9ead3; /*Sage*/ 
-                color: black;
+                background-color: #4b7b40; /*Sage*/ 
+                color: white;
                 font-family: 'Arial', sans-serif;
                 text-align: center;
                 padding: 50px;
